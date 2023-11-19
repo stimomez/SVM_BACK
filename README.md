@@ -1,2 +1,7 @@
 # IA_regresion_lineal
-# regression_back
+
+Instalacion:
+
+Debes tener instalado python, despues ejecuta el comando:
+
+pip3 install -r requirements.txt
